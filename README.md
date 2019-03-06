@@ -1,4 +1,7 @@
 # HW3
-санпрандер.png
-жлудовая.png
-шпадиль.png
+
+![alt-text](collocate.png)
+![alt-text](clustersngram.png)
+![alt-text](sanprander.png)
+![alt-text](shpadil.png)
+![alt-text](jludovaya.png)
